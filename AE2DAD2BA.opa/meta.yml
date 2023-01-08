@@ -1,0 +1,34 @@
+id: AE2DAD2BA
+title: Verses of the Eight Noble Auspicious Ones
+type: translation
+pechas:
+- I6B645B50
+- I347E3E74
+- IB2793C29
+- I41410CEC
+- IA9DA69F3
+- IAB793BDA
+- I3CD4AC35
+source_metadata:
+  languages:
+  - en
+  - de
+  - es
+  - fr
+  - pt
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:05:03.884577
+  last_modified_at: 2023-01-04 13:05:03.884586
+  collections:
+  - Mipham Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I6B645B50/3181: FDF4
+  I347E3E74/AC2C: FDF4
+  IB2793C29/5A58: FDF4
+  I41410CEC/E2A4: FDF4
+  IA9DA69F3/F475: FDF4
+  IAB793BDA/D34C: FDF4
+  I3CD4AC35/8A17: FDF4
